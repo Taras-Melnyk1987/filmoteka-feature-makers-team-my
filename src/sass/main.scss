@@ -1,0 +1,17 @@
+// utils
+@import './utils/variables';
+// base
+@import './base/common';
+@import './base/container';
+@import './base/fonts';
+
+// components
+@import './components/arrowTop';
+@import './components/gallery';
+@import './components/modal';
+@import './components/pagination';
+
+
+// layout
+@import './layout/header';
+@import './layout/footer';
